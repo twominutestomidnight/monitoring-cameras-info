@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  NewCC.cpp
+c:\users\user\source\repos\newcc\newcc\readfile.h(26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\user\source\repos\newcc\newcc\newcc.cpp(48): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  NewCC.vcxproj -> C:\Users\User\source\repos\NewCC\x64\Debug\NewCC.exe
